@@ -30,7 +30,7 @@ github_username:  jekyll
 github: [metadata]
 
 # Build settings
-theme: jekyll-dash
+remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
